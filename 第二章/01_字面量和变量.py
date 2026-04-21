@@ -48,3 +48,5 @@ a = b
 b = c
 print(a,b)
 
+print(123)
+
