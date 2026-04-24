@@ -9,3 +9,4 @@ print(a)
 student = {"name": "张三", "score": 88}
 student["score"] = 95
 print(student)
+
